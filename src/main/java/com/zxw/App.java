@@ -13,5 +13,6 @@ public class App
         System.out.println( "Hello World!4" );
         System.out.println( "Hello World!5" );
         System.out.println( "Master test" );
+        System.out.println( "Hot-fix test" );
     }
 }
